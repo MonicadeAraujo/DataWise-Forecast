@@ -1,5 +1,33 @@
 #  Análise de Dados com Python – Google Colab
-Este projeto consiste em um notebook interativo desenvolvido no Google Colab com foco em análise de dados utilizando bibliotecas como Pandas, NumPy, Matplotlib, Seaborn, entre outras. O notebook está disponível no link:
+
+🎯 Objetivo
+Demonstrar a aplicação de conceitos estatísticos fundamentais no contexto de análise de dados, tais como:
+
+Testes de normalidade (Shapiro-Wilk)
+
+Verificação de autocorrelação (Durbin-Watson)
+
+Heterocedasticidade (Breusch-Pagan)
+
+Multicolinearidade (VIF)
+
+📚 Bibliotecas Utilizadas
+pandas – Leitura e manipulação de dados
+
+matplotlib.pyplot & seaborn – Visualizações gráficas
+
+statsmodels – Modelagem estatística e testes diagnósticos
+
+scipy.stats – Testes estatísticos como Shapiro-Wilk
+
+🧪 Testes Estatísticos Aplicados
+Durbin-Watson: Verifica autocorrelação dos resíduos
+
+Breusch-Pagan: Testa presença de heterocedasticidade
+
+VIF (Variance Inflation Factor): Mede multicolinearidade entre variáveis independentes
+
+Shapiro-Wilk: Avalia se os resíduos seguem uma distribuição normal.
 
 📁 Estrutura do Projeto
 O notebook está estruturado nas seguintes etapas:

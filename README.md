@@ -47,11 +47,6 @@ Análise de distribuições, correlações e tendências.
 Aplicação de modelos simples (como regressão, classificação, etc.)
 Principais insights retirados da análise.
 
-📌 Observações
-
-O projeto pode ser adaptado para diferentes conjuntos de dados.
-
-Pode ser útil para estudos, portfólios ou aplicações práticas em análise de dados.
 
 ✍️ Autor
 

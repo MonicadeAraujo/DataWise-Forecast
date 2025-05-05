@@ -48,7 +48,6 @@ Aplicação de modelos simples (como regressão, classificação, etc.)
 Principais insights retirados da análise.
 
 
-✍️ Autor
 
-Projeto desenvolvido por Monica Araujo, com fins educacionais e de prática em análise de dados.
+Projeto desenvolvido por Monica Araujo.
 

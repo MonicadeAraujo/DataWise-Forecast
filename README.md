@@ -1,6 +1,6 @@
 #  Análise de Dados com Python – Google Colab
 
-🎯 Objetivo
+# Objetivo
 
 Demonstrar a aplicação de conceitos estatísticos fundamentais no contexto de análise de dados, tais como:
 
@@ -12,7 +12,7 @@ Heterocedasticidade (Breusch-Pagan)
 
 Multicolinearidade (VIF)
 
-📚 Bibliotecas Utilizadas
+# Bibliotecas Utilizadas
 
 pandas – Leitura e manipulação de dados
 
@@ -22,7 +22,7 @@ statsmodels – Modelagem estatística e testes diagnósticos
 
 scipy.stats – Testes estatísticos como Shapiro-Wilk
 
-🧪 Testes Estatísticos Aplicados
+# Testes Estatísticos Aplicados
 
 Durbin-Watson: Verifica autocorrelação dos resíduos
 
@@ -32,7 +32,7 @@ VIF (Variance Inflation Factor): Mede multicolinearidade entre variáveis indepe
 
 Shapiro-Wilk: Avalia se os resíduos seguem uma distribuição normal.
 
-📁 Estrutura do Projeto
+# Estrutura do Projeto
 
 O notebook está estruturado nas seguintes etapas:
 
